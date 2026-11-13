@@ -1,7 +1,7 @@
 """
 Problem: Container With Most Water
 Link: https://www.hellointerview.com/learn/code/two-pointers/container-with-most-water
-Date: 2026-11-12 | Solved alone? 
+Date: 2026-11-12 | Solved alone? Yes 
 Pattern: two-pointers
 Key insight: moving the left pointer when the right wall is greater than 
              the left wall because moving the taller wall only 
